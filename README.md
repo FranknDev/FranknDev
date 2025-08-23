@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou Franklin! 👋
 
-<!--
-**FranknDev/FranknDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+- 👦 Comecei a **programar** aos 12 **anos**
+- 🖥️ Foco em desenvolvimento **Backend**
+- 🗄️ Conhecimento em **bancos de dados relacionais**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objetivo
+Meu objetivo é me tornar um **Desenvolvedor Backend**, com especialização em **Java** e **Spring Boot.**
+
+- Sempre aberto a trocar ideias, colaborar e aprender em projetos open source!
+
+**Busco sempre evoluir e compartilhar conhecimento com a comunidade. Bora codar? 🚀**
